@@ -7,7 +7,7 @@ class String{
           },
           bodyB: body,
           stiffness: 0.04,
-          length: 10
+          length: 200
         };
         this.string = Constraint.create(options);
         World.add(world, this.string);
