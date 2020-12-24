@@ -40,6 +40,12 @@ function draw() {
   bob4.display();
   bob5.display();
 
+  string1.display();
+  string2.display();
+  string3.display();
+  string4.display();
+  string5.display();
+
   drawSprites();
  
 }
